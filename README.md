@@ -1,1 +1,1 @@
-# FantasyBot
+# Telegram Bot for fantasy football
